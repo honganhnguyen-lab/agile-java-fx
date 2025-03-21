@@ -1,0 +1,98 @@
+{"Solutions": [
+    {
+        "sname": "Create a structured feedback collection process",
+        "probability": 10,
+        "blockerId": "B03",
+        "sid": "solution9"
+    },
+    {
+        "sname": "Conduct comprehensive code review and testing",
+        "probability": 20,
+        "blockerId": "B04",
+        "sid": "solution10"
+    },
+    {
+        "sname": "Implement progressive refactoring plan",
+        "probability": 30,
+        "blockerId": "B04",
+        "sid": "solution11"
+    },
+    {
+        "sname": "Document all known issues and dependencies",
+        "probability": 40,
+        "blockerId": "B04",
+        "sid": "solution12"
+    },
+    {
+        "sname": "Engage security team early in development process",
+        "probability": 50,
+        "blockerId": "B05",
+        "sid": "solution13"
+    },
+    {
+        "sname": "Implement automated security scanning",
+        "probability": 60,
+        "blockerId": "B05",
+        "sid": "solution14"
+    },
+    {
+        "sname": "Schedule regular security reviews",
+        "probability": 70,
+        "blockerId": "B05",
+        "sid": "solution15"
+    },
+    {
+        "sname": "Create comprehensive data access request process",
+        "probability": 80,
+        "blockerId": "B06",
+        "sid": "solution16"
+    },
+    {
+        "sname": "Implement role-based access control",
+        "probability": 25,
+        "blockerId": "B06",
+        "sid": "solution17"
+    },
+    {
+        "sname": "Set up temporary test data sets",
+        "probability": 31,
+        "blockerId": "B06",
+        "sid": "solution18"
+    },
+    {
+        "sname": "Document data access requirements",
+        "probability": 39,
+        "blockerId": "B06",
+        "sid": "solution19"
+    },
+    {
+        "sname": "Implement feature branching strategy",
+        "probability": 48,
+        "blockerId": "B08",
+        "sid": "solution20"
+    },
+    {
+        "sname": "Set up automated merge conflict detection",
+        "probability": 10,
+        "blockerId": "B08",
+        "sid": "solution21"
+    },
+    {
+        "sname": "Create a txt file to demonstrate clear git workflow guidelines",
+        "probability": 8,
+        "blockerId": "B08",
+        "sid": "solution23"
+    },
+    {
+        "sname": "Create design system and component library",
+        "probability": 97,
+        "blockerId": "B09",
+        "sid": "solution24"
+    },
+    {
+        "sname": "sol1",
+        "probability": 78,
+        "blockerId": "B04",
+        "sid": "solution30"
+    }
+]}

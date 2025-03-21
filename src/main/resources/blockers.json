@@ -1,0 +1,94 @@
+{
+  "Blockers": [
+    {
+      "ID": "B01",
+      "Name": "API Dependency on Third-Party",
+      "Solutions": [
+        "Use a mock API for testing.",
+        "Get early access from the provider.",
+        "Prioritize other tasks."
+      ]
+    },
+    {
+      "ID": "B02",
+      "Name": "Environment Configuration Issues",
+      "Solutions": [
+        "Automate setup scripts.",
+        "Schedule regular environment checks.",
+        "Assign a DevOps resource."
+      ]
+    },
+    {
+      "ID": "B03",
+      "Name": "Waiting for Client Feedback",
+      "Solutions": [
+        "Schedule mid-sprint check-ins.",
+        "Work on tasks with clear requirements.",
+        "Set feedback expectations."
+      ]
+    },
+    {
+      "ID": "B04",
+      "Name": "Unresolved Legacy Code Bugs",
+      "Solutions": [
+        "Refactor code gradually.",
+        "Use feature flags for new code.",
+        "Create a legacy task backlog."
+      ]
+    },
+    {
+      "ID": "B05",
+      "Name": "Pending Security Approvals",
+      "Solutions": [
+        "Request security reviews early.",
+        "Follow security checklists.",
+        "Focus on non-security tasks."
+      ]
+    },
+    {
+      "ID": "B06",
+      "Name": "Data Access Restrictions",
+      "Solutions": [
+        "Use anonymized data.",
+        "Coordinate with data teams.",
+        "Generate synthetic data."
+      ]
+    },
+    {
+      "ID": "B07",
+      "Name": "Conflicting Work with Support Team",
+      "Solutions": [
+        "Set an on-call support rotation.",
+        "Plan buffer time for support.",
+        "Assign support to specific days."
+      ]
+    },
+    {
+      "ID": "B08",
+      "Name": "Code Merge Conflicts",
+      "Solutions": [
+        "Commit frequently in small batches.",
+        "Merge regularly during the sprint.",
+        "Use feature branching."
+      ]
+    },
+    {
+      "ID": "B09",
+      "Name": "Incomplete Wireframes or Designs",
+      "Solutions": [
+        "Engage design team early.",
+        "Use placeholders for initial work.",
+        "Adopt reusable design components."
+      ]
+    },
+    {
+      "ID": "B10",
+      "Name": "Network or VPN Issues",
+      "Solutions": [
+        "Set up backup network options.",
+        "Create a local setup.",
+        "Use cloud development environments."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "sprintId": 4,
+  "blockers": [
+    {
+      "id": "B02",
+      "name": "Environment Configuration Issues",
+      "description": "Issues with consistent environment setup across dev, staging, and production, causing deployment delays.",
+      "probability": 0
+    },
+    {
+      "id": "B03",
+      "name": "Waiting for Client Feedback",
+      "description": "Client feedback is pending, preventing the completion of user stories and impacting sprint progress.",
+      "probability": 0
+    }
+  ]
+}
