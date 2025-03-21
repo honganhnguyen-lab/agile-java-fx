@@ -1,5 +1,6 @@
 ## Description 
-
+A web app using JavaFX to build an application to manage agile project, having all CRUD function to update, delete, add item in agile project
+![Completed Assignment](img/completed.png)
 
 ## How to Build and Run
 
